@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibramnabil
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on learning js
+- 💞️ I’m looking to collaborate on learning JS
 - 📫 You can email me ibramnabil95@gmail.com
 
 <!---
